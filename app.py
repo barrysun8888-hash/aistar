@@ -13,7 +13,6 @@ from mirror_ai.face_analysis import (
     SkinToneAnalyzer,
     ExpressionAnalyzer,
 )
-from mirror_ai.celebrity_similarity import CelebrityEmbedder, CelebrityDatabase, MultiDimSimilarity
 from mirror_ai.recommendation import MakeupRecommender, HairstyleRecommender, LightingRecommender, StyleProfiler
 from mirror_ai.preview import VirtualTryOn
 from mirror_ai.user_profile import UserProfile
